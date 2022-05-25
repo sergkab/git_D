@@ -2,5 +2,10 @@ aa = 3+2
 
 bb = 'Serg'
 
-console.log (aa,bb)
+cc = []
+cc['ab'] = 'ab'
+cc['a2'] = 'a2'
+
+console.log (aa,bb, cc)
+
 
